@@ -17,11 +17,15 @@
 
 assets/fonts/outfit/OFL.txt
 assets/fonts/outfit/Outfit-VariableFont_wght.ttf
-assets/fonts/outfit/static/
-assets/fonts/young-serif/
-!assets/fonts/young-serif/YoungSerif-Regular.ttf
-!assets/fonts/outfit/static/Outfit-Bold.ttf
+
+# Young-serif and two Outfit variants are added
+
+# Outfit variant
+*.ttf
 !assets/fonts/outfit/static/Outfit-Regular.ttf
-!assets/images/image-omelette.jpeg
-assets/images/
-design/
+!assets/fonts/outfit/static/Outfit-Bold.ttf
+
+# Young-serif font 
+!assets/fonts/young-serif/YoungSerif-Regular.ttf
+
+
