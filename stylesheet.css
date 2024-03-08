@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'YoungSerif';
+    src: url('/assets/fonts/young-serif/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Outfit-regular';
+    src: url('/assets/fonts/outfit/static/Outfit-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Outfit-bold';
+    src: url('/assets/fonts/outfit/static/Outfit-Bold.ttf');
+}
+
+html {
+    background-color: #F3E5D7;
+    position: relative;
+}
+
+.white-box {
+    background-color: white;
+    width: 736px;
+    height: 1708px;    
+    margin: 123px auto;
+    border-radius: 24px;
+}
+
+img {
+    width: 656px;
+    height: 300px;
+    margin: 40px;
+    margin-bottom: 0px;
+    border-radius: 12px;
+}
+
+.content {
+    margin: 40px;
+    margin-bottom: 0px;
+}
+
+
+h1{
+    font-family: 'YoungSerif';
+    font-weight: normal;
+    color: #312E2C;
+    margin: 0px;
+}
+
+h2 {
+    font-family: 'YoungSerif';
+    font-weight: normal;
+    color: #854632;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+hr {
+    border: 1px solid #E3DDD7;
+    margin: 32px 0px 32px 0px;
+  }
+  
+
+body > div.white-box > div > div:nth-child(3){
+    background-color: #FFF7FB;
+    margin: 0px 0px 32px 0px;
+    padding: 28px;
+    border-radius: 12px;
+}
+
+h3 {
+    color: #7A284E;
+    font-family: 'Outfit-bold';
+    font-weight: normal;
+    margin: 0px;
+    margin-bottom: 16px;
+}
+
+p, li, td {
+    color: #5F564D;
+    font-family: 'Outfit-regular';
+    font-weight: normal;
+    margin-bottom: 8px;
+}
+
+p {
+    margin-bottom: 24px;
+}
+
+li {
+    padding-left: 16px;
+}
+
+th {
+    color: #5F564D;
+    font-family: 'Outfit-bold';
+    font-weight: normal;
+}
+
+ol > li::marker {
+    font-weight: bold;
+  }
+
+  ol, ul {
+    margin: 0px
+  }
+
+  td, th {
+    text-align: left;
+    width: 288px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #E3DDD7;
+    margin: 0px;
+  }
+
+  td {
+    padding-left: 32px;
+  }
+
+  table {
+    margin: 0px;
+    margin-top: 16px;
+    border-collapse: collapse;
+    width: 656px;
+  }
+
+
