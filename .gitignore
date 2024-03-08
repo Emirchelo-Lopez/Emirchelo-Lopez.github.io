@@ -15,17 +15,7 @@
 .DS_Store
 .prettierignore
 
-assets/fonts/outfit/OFL.txt
-assets/fonts/outfit/Outfit-VariableFont_wght.ttf
-
-# Young-serif and two Outfit variants are added
-
-# Outfit variant
-*.ttf
-!assets/fonts/outfit/static/Outfit-Regular.ttf
-!assets/fonts/outfit/static/Outfit-Bold.ttf
-
-# Young-serif font 
-!assets/fonts/young-serif/YoungSerif-Regular.ttf
+assets/fonts
+design
 
 
