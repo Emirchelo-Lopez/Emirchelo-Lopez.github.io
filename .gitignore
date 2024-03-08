@@ -19,5 +19,9 @@ assets/fonts/outfit/OFL.txt
 assets/fonts/outfit/Outfit-VariableFont_wght.ttf
 assets/fonts/outfit/static/
 assets/fonts/young-serif/
+!assets/fonts/young-serif/YoungSerif-Regular.ttf
+!assets/fonts/outfit/Outfit-Bold.ttf
+!assets/fonts/outfit/Outfit-Regular.ttf
+!/assets/images/image-omelette.jpeg
 assets/images/
 design/
